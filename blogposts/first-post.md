@@ -9,6 +9,6 @@ This is a first post in md format
 
 # deployed on Vercel
 
-open[https://project01-gold.vercel.app]
-open[https://project02-gold.vercel.app]
-open[https://project03-gold.vercel.app]
+open [https://project01-gold.vercel.app]`\n`
+open [https://project02-gold.vercel.app]`\n`
+open [https://project03-gold.vercel.app]
